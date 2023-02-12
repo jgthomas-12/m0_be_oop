@@ -8,3 +8,5 @@
 
 - What did you learn from this exercise that you want to remember as you begin Mod 1?
     - Try and go throug the problems and lessons before we dig into them as a class. Having a small amount of insight prior to starting Mod 0 has made understanding the information much easier. Keep focusing on communication and working through problems with different people. Everyone has a different learning style and encounters different problems. Sometimes the easiest solutions take the longest time to fix because they blend in with the code easily. 
+
+    I should probably get better about using git to save work as I'm going through it. I have a tendency to just bulldog through the problem without saving my process. I'd like to be better about that. 
